@@ -1,6 +1,7 @@
 #!/bin/bash
 while true
 do
-./bot.sh
+## line below is command to run application or bash scrpit
+./script.sh
 sleep 1
 done
